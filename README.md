@@ -3,8 +3,12 @@
 Homebrew casks for my apps.
 
 ```bash
+brew tap apin24/tap
+brew trust --tap apin24/tap
 brew install --cask apin24/tap/lyrics-island
 ```
+
+Recent Homebrew versions only load casks from third-party taps you've trusted, hence `brew trust`.
 
 | Cask | App |
 |---|---|
