@@ -1,6 +1,6 @@
 cask "lyrics-island" do
-  version "0.1.2"
-  sha256 "a8a05f23258d897ce0ee6d9cc2cb88569cc2080fd947d0a40bdd272cd4771650"
+  version "0.2.0"
+  sha256 "b221fcb3dd1fb2aec711265c15990dd690a511d8a07f3818032863fe73f116c9"
 
   url "https://github.com/apin24/lyrics-island/releases/download/v#{version}/LyricsIsland-#{version}.zip"
   name "Lyrics Island"
